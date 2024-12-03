@@ -1,0 +1,5 @@
+com\centralbeat\musica\MusicaApplication.class
+com\centralbeat\musica\Repository\CentralBeatRepository.class
+com\centralbeat\musica\model\CentralBeatModel.class
+com\centralbeat\musica\Service\CentralBeatService.class
+com\centralbeat\musica\Controller\CentralBeatController.class
